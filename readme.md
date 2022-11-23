@@ -6,6 +6,8 @@ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov
 
 1, 2 페이지 학습. (최종 정리는 끝난 후 일괄 업로드)
 
+2022 / 11 / 24
+
 3, 4, 5, 6 페이지 학습
 
 분포를 어떻게 이동시킬거야?
