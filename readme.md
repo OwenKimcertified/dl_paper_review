@@ -10,7 +10,7 @@ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov
 
 3, 4, 5, 6 페이지 학습
 
-분포를 어떻게 이동시킬거야?
+분포를 어떻게 이동시킬거야? 그로 인한 선형성 문제는?
 
 다중 공선성에도 robust
 
