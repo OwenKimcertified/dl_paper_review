@@ -1,5 +1,7 @@
 ### batch normalization 
 
+출처 : https://arxiv.org/abs/1502.03167
+
 2022 / 11 / 21
 
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
