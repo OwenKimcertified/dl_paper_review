@@ -21,3 +21,4 @@ CNN Batch normalization
 예제 코드 분포 이동 보여주기. 
 
 11 / 26 리뷰 업데이트
+-> 완료
